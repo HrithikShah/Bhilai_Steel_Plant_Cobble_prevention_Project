@@ -1,0 +1,9 @@
+RESULTS:
+
+
+1. The dimension of rectangle is
+
+starting point =( 650, 450)
+
+ending point =( 1000, 800)
+
